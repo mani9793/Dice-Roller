@@ -1,2 +1,3 @@
 # Dice-Roller
-App using Kotlin and the platform is android studio
+PL Kotlin with platform android studio
+Lottie library for animation
