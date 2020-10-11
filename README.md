@@ -1,3 +1,3 @@
 # Dice-Roller
 PL Kotlin with platform android studio
-Lottie library for animation
+& Lottie library used for animation
